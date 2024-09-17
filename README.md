@@ -2,7 +2,29 @@ Project Title: GeoCanvas
 
 Technologies: Java Swing
 
-Functionalities:
+First of all, the app is starting like this:
+
+![image](https://github.com/user-attachments/assets/1b8f00a0-7938-4d1c-bdba-a5ff6bd30733)
+
+
+
+**Functionalities**:
+
+First, I will show you the video, which consists of two parts. In **part one**, I showed functionalities like painting the shapes, deleting, selecting them (single/multiple select options),
+undo/redo functionalities, bring to front/ to back (for example, if I draw donut, then on top of it circle, and on top of it hexagon and if I select circle and click bring to back, it will move it behind all shapes), to front and to back (moves the shape one step ahead/behind shape).
+
+In **part two**, I showed save/load functionalities (save drawing or log, so the next time when we start an empty app we could load it).
+
+
+
+https://github.com/user-attachments/assets/db24d9d7-eed6-4a91-b1e4-fc6042e6c5ed
+
+
+https://github.com/user-attachments/assets/7db70810-1ee0-4e4e-a96b-77d6fa88bda0
+
+
+
+Also, here's the specification of project itself:
 
 Shape Drawing:
 
