@@ -2,7 +2,15 @@ Project Title: GeoCanvas
 
 Technologies: Java Swing
 
-First of all, the app is starting like this:
+In order to run an app, first, you have to include hexagon (hexagon.jar) library (which you can find in repository itself).
+**Steps:**
+1. right click on DizajnerskiObrasci
+2. properties
+3. java build path
+4. libraries
+5. add library
+
+App is starting like this:
 
 ![image](https://github.com/user-attachments/assets/1b8f00a0-7938-4d1c-bdba-a5ff6bd30733)
 
