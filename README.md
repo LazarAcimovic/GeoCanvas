@@ -30,7 +30,11 @@ In **part two**, I showed save/load functionalities (save drawing or log, so the
 
 
 
-https://github.com/user-attachments/assets/db24d9d7-eed6-4a91-b1e4-fc6042e6c5ed
+
+
+https://github.com/user-attachments/assets/aaf619d8-632b-4699-8899-c91f54f5c0fc
+
+
 
 
 https://github.com/user-attachments/assets/7db70810-1ee0-4e4e-a96b-77d6fa88bda0
