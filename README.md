@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/7db70810-1ee0-4e4e-a96b-77d6fa88bda0
 
 
 
-Also, here's the specification of project itself:
+Also, here's the specification of the project itself:
 
 Shape Drawing:
 
