@@ -9,18 +9,10 @@ Developed a Java Swing application using the MVC architecture for shape creation
 management. Key features include undo/redo, shape re-ordering, shape activity log, single and
 multi-shape selection and file persistence with log-based loading.
 
-In order to run an app, first, you have to include hexagon (hexagon.jar) library (which you can find in repository itself).
-**Steps:**
-1. right click on DizajnerskiObrasci
-2. properties
-3. java build path
-4. libraries
-5. add library
+## Functionalities
+GeoCanvas enables user to draw shapes, save them as a file as well to load them. Also, it enables deleting, selecting the shape (single/multiple select options), undo/redo functionalities, bring to front/ to back (for example, if I draw donut, then on top of it circle, and on top of it hexagon and if I select circle and click bring to back, it will move it behind all shapes), to front and to back (moves the shape one step ahead/behind shape). 
 
-App is starting like this:
-
-![image](https://github.com/user-attachments/assets/1b8f00a0-7938-4d1c-bdba-a5ff6bd30733)
-
+## App demo
 
 
 **Functionalities**:
