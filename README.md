@@ -1,8 +1,10 @@
-Project Title: GeoCanvas
+## Project Title: 
+GeoCanvas
 
-Technologies: Java Swing
+## Technologies: 
+Java Swing
 
-**Short description of the app:**
+## App description
 Developed a Java Swing application using the MVC architecture for shape creation and
 management. Key features include undo/redo, shape re-ordering, shape activity log, single and
 multi-shape selection and file persistence with log-based loading.
